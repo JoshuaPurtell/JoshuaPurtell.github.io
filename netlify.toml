@@ -1,4 +1,5 @@
 [build.environment]
+HUGO_ENV = "production"
 HUGO_VERSION = "0.125.5"
 TZ = "America/New_York"
 
