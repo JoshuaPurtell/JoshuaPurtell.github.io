@@ -15,7 +15,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["posts", "about"]
 
 minify:
   disableXML: true
@@ -31,6 +31,9 @@ languages:
       series: series
     menu:
       main:
+        - name: About
+          url: about
+          weight: 1
         - name: Archive
           url: archives
           weight: 5
