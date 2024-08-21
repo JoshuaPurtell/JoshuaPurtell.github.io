@@ -11,6 +11,7 @@ I'm an ML researcher focused on digital agents for production use cases. I like 
 
 ### OSS
 [MIPROv2](https://colab.research.google.com/github/stanfordnlp/dspy/blob/main/examples/nli/scone/scone_with_MIPRO.ipynb)
+
 [CraftaxLM](https://github.com/JoshuaPurtell/craftaxlm)
 
 ### Research
