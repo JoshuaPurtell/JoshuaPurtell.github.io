@@ -14,5 +14,7 @@ I'm an ML researcher focused on digital agents for production use cases. I like 
 
 [CraftaxLM](https://github.com/JoshuaPurtell/craftaxlm)
 
+[Long Context Reasoning Benchmark](https://github.com/JoshuaPurtell/LRCBench/tree/main)
+
 ### Research
 [Improving Compound AI Systems with Data](https://arxiv.org/pdf/2406.11695)
